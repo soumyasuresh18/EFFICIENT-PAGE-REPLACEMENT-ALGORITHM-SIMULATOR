@@ -22,13 +22,7 @@ Prerequisites
 
 Installation
 
-1. Clone the repository
-bash
-git clone https://github.com/username/page-replacement-simulator.git
-cd page-replacement-simulator
-
-
-2. Install required Python packages
+1. Install required Python packages
 bash
 pip install -r requirements.txt
 
