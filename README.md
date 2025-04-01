@@ -1,8 +1,7 @@
 # OS_Project
 Efficient Page Replacement Algorithm Simulator
 
-A visual simulator for comparing the performance of FIFO, LRU, and Optimal page replacement algorithms used in operating systems memory management.
-
+The Efficient Page Replacement Algorithm Simulator is a visual tool for comparing the performance of FIFO, LRU, and Optimal page replacement algorithms. These algorithms play a crucial role in operating system memory management, impacting performance and efficiency.
 Overview
 
 This project provides a web-based and desktop interface for simulating page replacement algorithms. Users can input a reference string and frame count to visualize how different page replacement strategies perform under the same conditions.
